@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListVju</string>
+    <string-array name="listata">
+        <item>prv red</item>
+        <item>vtor</item>
+        <item>tret</item>
+        <item>4 (cetiri)</item>
+    </string-array>
+</resources>
